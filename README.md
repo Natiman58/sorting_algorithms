@@ -1,1 +1,1 @@
-sorting_algorithms
+All about sorting
