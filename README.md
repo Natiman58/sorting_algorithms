@@ -1,1 +1,2 @@
-All about sorting
+
+All about sorting algorithms
