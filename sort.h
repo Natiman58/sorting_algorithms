@@ -33,5 +33,8 @@ void swap_func(listint_t *left, listint_t *right, listint_t **head);
 void counting_sort(int *array, size_t size);
 int find_max(int *array, size_t size);
 int counter(int *array, size_t size, int value);
+void merge_sort(int *array, size_t size);
+void split(int *array, int left, int right, int *temp);
+void merge(int *array, int low, int middle, int high, int *temp);
 
 #endif
