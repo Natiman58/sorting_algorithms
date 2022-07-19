@@ -30,4 +30,8 @@ void quick_sort(int *array, size_t size);
 void shell_sort(int *array, size_t size);
 void cocktail_sort_list(listint_t **list);
 void swap_func(listint_t *left, listint_t *right, listint_t **head);
+void counting_sort(int *array, size_t size);
+int find_max(int *array, size_t size);
+int counter(int *array, size_t size, int value);
+
 #endif
